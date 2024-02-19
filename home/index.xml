@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Fontes</title>
+    <link>https://jp-guimaraes.github.io/slides_fontes/home/</link>
+    <description>Recent content in Homes on Fontes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/slides_fontes/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_fontes/home/1_intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_fontes/home/1_intro/</guid>
+      <description> Objetivos   Revisão básica da eletricidade/eletrônica básica por trás dos equipamentos que estão entre a tomada e a fonte do computador
+  Estudo do Estabilizador
+  Estudo do Nobreak
+  Especificação de equipamentos
+  Manutenção preventiva/corretiva
+   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_fontes/home/2_equipamentos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_fontes/home/2_equipamentos/</guid>
+      <description>Revisão  Equipamentos ligados entre o computador e a tomada  Extensão T, Benjamim Régua Filtro de Linha Transformador Estabilizador Nobreak   T, Benjamim Como funciona? Características, vantagens, desvantagens?
+ Extensão Como funciona? Características, vantagens, desvantagens?
+ Régua Como funciona?Características, vantagens, desvantagens?
+ Fusível O que é? Como funciona?
+ Fusível Proteção contra surtos de corrente
+Ligado em série
+ Quiz O que acontece quando um circuito é protegido por um fusível que está queimado?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_fontes/home/3_estabilizador/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_fontes/home/3_estabilizador/</guid>
+      <description>Estabilizador  Para entender estabilizador
+Transformadores Relés
+ Transformador Conversão AC-AC;
+Simule!
+ Relés Dispositivo eletromecânicos
+Aplicações variadas
+Interfaceamento (possibilita o isolamento do circuito do controle do circuito de carga)
+Exemplos?
+ Exemplo: Microcontrolador funcionando em 5V aciona bomba ligada em 220V.
+  Corrente elétrica -&amp;gt; Campo magnético -&amp;gt; chaveamento
+ Principais tipos de relés:
+ NA (Normalmente Aberto): o contato inicialmente está aberto, sendo fechado quando uma corrente atravessar a bobina.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_fontes/home/4_nobreak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_fontes/home/4_nobreak/</guid>
+      <description>No break UPS
+Características, vantagens, desvantagens?
+  Stand-by (offline)  Interativo (offline)  Componentes  Online Inversor sempre ligado
+ Dimensionamento de Nobreaks (também vale para estabilizadores)
+Watts (W) vs Volt-Ampere (VA)
+VA: potência aparente (ativa + perdas) W: potência real (ativa -&amp;gt; realizando trabalho)
+KVA -&amp;gt; Também usado no dimensionamento de geradores
+ Potência real x Aparente Eficiência
+Fator de potência (0~1)
+Fator de potência = Potência real/ Potência aparente (kW / kVA)</description>
+    </item>
+    
+  </channel>
+</rss>
